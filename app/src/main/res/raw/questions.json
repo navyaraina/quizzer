@@ -1,0 +1,368 @@
+{
+  "mathQuestions": [
+    {
+      "id": 1,
+      "questionText": "What is the derivative of x^3 with respect to x?",
+      "answerArray": [
+        "3x^2",
+        "x^2",
+        "6x",
+        "x^3"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 2,
+      "questionText": "Solve for x: 2x + 3 = 7",
+      "answerArray": [
+        "x = 1",
+        "x = 2",
+        "x = 3",
+        "x = 4"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 3,
+      "questionText": "What is the area of a circle with radius 5?",
+      "answerArray": [
+        "5π",
+        "25π",
+        "10π",
+        "50π"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 4,
+      "questionText": "What is the integral of 2x dx?",
+      "answerArray": [
+        "x + C",
+        "x^3 + C",
+        "x^2 + C",
+        "2x^2 + C"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 5,
+      "questionText": "If sin(θ) = 1/2, what is θ?",
+      "answerArray": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 6,
+      "questionText": "What is the solution to the quadratic equation x^2 - 4x + 4 = 0?",
+      "answerArray": [
+        "x = -2",
+        "x = 4",
+        "x = 2",
+        "x = 0"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 7,
+      "questionText": "What is the value of π to 3 decimal places?",
+      "answerArray": [
+        "3.143",
+        "3.141",
+        "3.142",
+        "3.140"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 8,
+      "questionText": "What is the sum of angles in a triangle?",
+      "answerArray": [
+        "360°",
+        "270°",
+        "180°",
+        "90°"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 9,
+      "questionText": "What is the value of the determinant of the matrix [[1,2], [3,4]]?",
+      "answerArray": [
+        "0",
+        "1",
+        "-2",
+        "2"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 10,
+      "questionText": "Find the slope of the line passing through points (2, 3) and (4, 7).",
+      "answerArray": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "correctAnswerIndex": 3,
+      "isCompound": false
+    }
+  ],
+  "geoQuestions": [
+    {
+      "id": 1,
+      "questionText": "What is the largest desert in the world?",
+      "answerArray": [
+        "Sahara Desert",
+        "Arabian Desert",
+        "Antarctic Desert",
+        "Gobi Desert"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 2,
+      "questionText": "Which river is the longest in the world?",
+      "answerArray": [
+        "Nile River",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 3,
+      "questionText": "What is the smallest country by land area?",
+      "answerArray": [
+        "Monaco",
+        "Malta",
+        "Vatican City",
+        "San Marino"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 4,
+      "questionText": "Which continent is the most populous?",
+      "answerArray": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 5,
+      "questionText": "Which country has the most time zones?",
+      "answerArray": [
+        "United States",
+        "Russia",
+        "France",
+        "China"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 6,
+      "questionText": "What is the capital city of Australia?",
+      "answerArray": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 7,
+      "questionText": "Which mountain is the highest in the world?",
+      "answerArray": [
+        "K2",
+        "Mount Everest",
+        "Kangchenjunga",
+        "Mount Kilimanjaro"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 8,
+      "questionText": "What is the deepest ocean in the world?",
+      "answerArray": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswerIndex": 3,
+      "isCompound": false
+    },
+    {
+      "id": 9,
+      "questionText": "Which country has the largest population?",
+      "answerArray": [
+        "India",
+        "United States",
+        "China",
+        "Indonesia"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 10,
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "answerArray": [
+        "South Korea",
+        "Japan",
+        "Thailand",
+        "Philippines"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    }
+  ],
+  "historyQuestions": [
+    {
+      "id": 1,
+      "questionText": "Who was the first President of the United States?",
+      "answerArray": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams",
+        "James Madison"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 2,
+      "questionText": "In which year did World War I begin?",
+      "answerArray": [
+        "1914",
+        "1918",
+        "1939",
+        "1945"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 3,
+      "questionText": "Who was the leader of the Soviet Union during World War II?",
+      "answerArray": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Nikita Khrushchev"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 4,
+      "questionText": "The ancient city of Rome was founded in which year?",
+      "answerArray": [
+        "753 BC",
+        "509 BC",
+        "476 AD",
+        "1000 BC"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 5,
+      "questionText": "Who was the first female Prime Minister of the United Kingdom?",
+      "answerArray": [
+        "Margaret Thatcher",
+        "Theresa May",
+        "Queen Elizabeth I",
+        "Angela Merkel"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 6,
+      "questionText": "Which empire was ruled by Genghis Khan?",
+      "answerArray": [
+        "Ottoman Empire",
+        "Mughal Empire",
+        "Mongol Empire",
+        "Roman Empire"
+      ],
+      "correctAnswerIndex": 2,
+      "isCompound": false
+    },
+    {
+      "id": 7,
+      "questionText": "The signing of the Declaration of Independence took place in which year?",
+      "answerArray": [
+        "1776",
+        "1783",
+        "1800",
+        "1812"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 8,
+      "questionText": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+      "answerArray": [
+        "Mayflower",
+        "Santa Maria",
+        "Endeavour",
+        "Pinta"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    },
+    {
+      "id": 9,
+      "questionText": "Who was the first emperor of China?",
+      "answerArray": [
+        "Kublai Khan",
+        "Qin Shi Huang",
+        "Sun Yat-sen",
+        "Mao Zedong"
+      ],
+      "correctAnswerIndex": 1,
+      "isCompound": false
+    },
+    {
+      "id": 10,
+      "questionText": "The Magna Carta, a document that limited the power of the king, was signed in which year?",
+      "answerArray": [
+        "1215",
+        "1066",
+        "1453",
+        "1660"
+      ],
+      "correctAnswerIndex": 0,
+      "isCompound": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/SelectionPage">
+    <fragment android:id="@+id/SelectionPage"
+    android:name="com.example.triviaapp.SelectionPageFragment"
+    android:label="SelectionPage"
+    tools:layout="@layout/selection_page">
+    <action android:id="@+id/MathsFragment"
+        app:destination="@id/MathsFragment"
+        app:popUpTo="@id/MathsFragment"/>
+        <action android:id="@+id/GeoFragment"
+            app:destination="@id/GeoFragment"
+            app:popUpTo="@id/GeoFragment"/>
+        <action android:id="@+id/HisFragment"
+            app:destination="@id/HisFragment"
+            app:popUpTo="@id/HisFragment"/>
+    </fragment>
+    <fragment android:id="@id/MathsFragment"
+        android:name="com.example.triviaapp.MathsFragment"
+        android:label="MathsFragment"
+        tools:layout="@layout/maths_page">
+    </fragment>
+    <fragment android:id="@id/GeoFragment"
+        android:name="com.example.triviaapp.GeoFragment"
+        android:label="GeoFragment"
+        tools:layout="@layout/geo_page">
+    </fragment>
+    <fragment android:id="@id/HisFragment"
+        android:name="com.example.triviaapp.HisFragment"
+        android:label="HisFragment"
+        tools:layout="@layout/his_page">
+    </fragment>
+</navigation>
