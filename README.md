@@ -1,6 +1,6 @@
-# TriviaApp 📚🎉
+# Quizzer 📚🎉
 
-TriviaApp is an Android quiz application designed to make learning fun and interactive! Featuring multiple categories—History, Geography, and Math—this app allows users to test their knowledge, track their scores, and revisit questions.
+Quizzer is an Android quiz application designed to make learning fun and interactive! Featuring multiple categories—History, Geography, and Math—this app allows users to test their knowledge, track their scores, and revisit questions.
 
 ## Table of Contents
 - [Features](#features)
@@ -28,8 +28,8 @@ To get a local copy up and running, follow these steps.
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/navyaraina/TriviaApp.git
-   cd TriviaApp
+   git clone https://github.com/navyaraina/quizzer.git
+   cd quizzer
     ```
 2. **Open in Android Studio**:
 - Open Android Studio, click on "Open an existing project," and select the cloned repository.
