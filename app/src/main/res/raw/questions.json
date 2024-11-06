@@ -9,7 +9,7 @@
         "6x",
         "x^3"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -21,7 +21,7 @@
         "x = 3",
         "x = 4"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -33,7 +33,7 @@
         "10π",
         "50π"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -45,7 +45,7 @@
         "x^2 + C",
         "2x^2 + C"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -69,7 +69,7 @@
         "x = 2",
         "x = 0"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -81,7 +81,7 @@
         "3.142",
         "3.140"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -93,7 +93,7 @@
         "180°",
         "90°"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -105,7 +105,7 @@
         "-2",
         "2"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -117,7 +117,7 @@
         "3",
         "2"
       ],
-      "correctAnswerIndex": 3,
+      "correctAnswerIndex": "3",
       "isCompound": false
     }
   ],
@@ -131,7 +131,7 @@
         "Antarctic Desert",
         "Gobi Desert"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -143,7 +143,7 @@
         "Yangtze River",
         "Mississippi River"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -155,7 +155,7 @@
         "Vatican City",
         "San Marino"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -167,7 +167,7 @@
         "Europe",
         "South America"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -179,7 +179,7 @@
         "France",
         "China"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -191,7 +191,7 @@
         "Melbourne",
         "Perth"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -203,7 +203,7 @@
         "Kangchenjunga",
         "Mount Kilimanjaro"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -215,7 +215,7 @@
         "Arctic Ocean",
         "Pacific Ocean"
       ],
-      "correctAnswerIndex": 3,
+      "correctAnswerIndex": "3",
       "isCompound": false
     },
     {
@@ -227,7 +227,7 @@
         "China",
         "Indonesia"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -239,7 +239,7 @@
         "Thailand",
         "Philippines"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     }
   ],
@@ -253,7 +253,7 @@
         "John Adams",
         "James Madison"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -265,7 +265,7 @@
         "1939",
         "1945"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -277,7 +277,7 @@
         "Leon Trotsky",
         "Nikita Khrushchev"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -289,7 +289,7 @@
         "476 AD",
         "1000 BC"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -301,7 +301,7 @@
         "Queen Elizabeth I",
         "Angela Merkel"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -313,7 +313,7 @@
         "Mongol Empire",
         "Roman Empire"
       ],
-      "correctAnswerIndex": 2,
+      "correctAnswerIndex": "2",
       "isCompound": false
     },
     {
@@ -325,7 +325,7 @@
         "1800",
         "1812"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -337,7 +337,7 @@
         "Endeavour",
         "Pinta"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     },
     {
@@ -349,7 +349,7 @@
         "Sun Yat-sen",
         "Mao Zedong"
       ],
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": "1",
       "isCompound": false
     },
     {
@@ -361,7 +361,7 @@
         "1453",
         "1660"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": "0",
       "isCompound": false
     }
   ]

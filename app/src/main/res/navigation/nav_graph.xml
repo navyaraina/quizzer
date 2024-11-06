@@ -21,16 +21,33 @@
     <fragment android:id="@id/MathsFragment"
         android:name="com.example.triviaapp.MathsFragment"
         android:label="MathsFragment"
-        tools:layout="@layout/maths_page">
+        tools:layout="@layout/questions_page">
+        <action android:id="@+id/DisplayScoreFragment"
+            app:destination="@id/DisplayScoreFragment"
+            app:popUpTo="@id/DisplayScoreFragment"/>
     </fragment>
     <fragment android:id="@id/GeoFragment"
         android:name="com.example.triviaapp.GeoFragment"
         android:label="GeoFragment"
-        tools:layout="@layout/geo_page">
+        tools:layout="@layout/questions_page">
+        <action android:id="@+id/DisplayScoreFragment"
+            app:destination="@id/DisplayScoreFragment"
+            app:popUpTo="@id/DisplayScoreFragment"/>
     </fragment>
     <fragment android:id="@id/HisFragment"
         android:name="com.example.triviaapp.HisFragment"
         android:label="HisFragment"
-        tools:layout="@layout/his_page">
+        tools:layout="@layout/questions_page">
+        <action android:id="@+id/DisplayScoreFragment"
+            app:destination="@id/DisplayScoreFragment"
+            app:popUpTo="@id/DisplayScoreFragment"/>
+    </fragment>
+    <fragment android:id="@+id/DisplayScoreFragment"
+        android:name="com.example.triviaapp.DisplayScoreFragment"
+        android:label="DisplayScoreFragment"
+        tools:layout="@layout/score_screen">
+        <action android:id="@+id/SelectionPage"
+            app:destination="@id/SelectionPage"
+            app:popUpTo="@id/SelectionPage"/>
     </fragment>
 </navigation>
