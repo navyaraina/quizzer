@@ -42,7 +42,7 @@ To get a local copy up and running, follow these steps.
 - At the end of the quiz, view your score and choose to restart if desired.
 
 ### Code Structure
-## Project Files
+#### Project Files
 - **MainActivity.kt**: Hosts the navigation controller for handling fragment transitions.
 - **SelectionPageFragment.kt**: Lets the player choose a category to answer questions in, transitions to the selected category.
 - **HisFragment.kt**: Displays history questions, handles answer selection, and transitions to the score screen.
@@ -50,8 +50,8 @@ To get a local copy up and running, follow these steps.
 - **MathsFragment.kt**: Displays mathematics questions, handles answer selection, and transitions to the score screen.
 - **ScoreFragment.kt**: Displays the user's score and provides a restart button.
 
-## JSON Structure (questions.json)
-`{
+#### JSON Structure (questions.json)
+```{
   "historyQuestions": [
     {
       "id": 1,
@@ -77,9 +77,9 @@ To get a local copy up and running, follow these steps.
     }
   ]
 }
-`
+```
 
-## Navigation
+#### Navigation
 Uses Jetpack Navigation Component for navigating between fragments (HisFragment, SelectionFragment, GeographyFragment, MathsFragment, and ScoreFragment).
 
 ### Technologies Used
